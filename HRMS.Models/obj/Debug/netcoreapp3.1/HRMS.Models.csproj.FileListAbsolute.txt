@@ -1,0 +1,14 @@
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Models.deps.json
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Models.dll
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Models.pdb
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Communications.dll
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Repository.dll
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Communications.pdb
+C:\HRMS\HRMS\HRMS.Models\bin\Debug\netcoreapp3.1\HRMS.Repository.pdb
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.csprojAssemblyReference.cache
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.AssemblyInfoInputs.cache
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.AssemblyInfo.cs
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.csproj.CoreCompileInputs.cache
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.csproj.CopyComplete
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.dll
+C:\HRMS\HRMS\HRMS.Models\obj\Debug\netcoreapp3.1\HRMS.Models.pdb

@@ -1,0 +1,15 @@
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Repository.deps.json
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Repository.runtimeconfig.json
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Repository.runtimeconfig.dev.json
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Repository.dll
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Repository.pdb
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Communications.dll
+C:\HRMS\HRMS\HRMS.Repository\bin\Debug\netcoreapp3.1\HRMS.Communications.pdb
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.csprojAssemblyReference.cache
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.AssemblyInfoInputs.cache
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.AssemblyInfo.cs
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.csproj.CoreCompileInputs.cache
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.csproj.CopyComplete
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.dll
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.pdb
+C:\HRMS\HRMS\HRMS.Repository\obj\Debug\netcoreapp3.1\HRMS.Repository.genruntimeconfig.cache

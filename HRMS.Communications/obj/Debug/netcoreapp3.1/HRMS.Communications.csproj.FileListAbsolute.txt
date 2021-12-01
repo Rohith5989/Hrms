@@ -1,0 +1,9 @@
+C:\HRMS\HRMS\HRMS.Communications\bin\Debug\netcoreapp3.1\HRMS.Communications.deps.json
+C:\HRMS\HRMS\HRMS.Communications\bin\Debug\netcoreapp3.1\HRMS.Communications.dll
+C:\HRMS\HRMS\HRMS.Communications\bin\Debug\netcoreapp3.1\HRMS.Communications.pdb
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.csprojAssemblyReference.cache
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.AssemblyInfoInputs.cache
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.AssemblyInfo.cs
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.csproj.CoreCompileInputs.cache
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.dll
+C:\HRMS\HRMS\HRMS.Communications\obj\Debug\netcoreapp3.1\HRMS.Communications.pdb

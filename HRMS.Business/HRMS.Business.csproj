@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRMS.Communications\HRMS.Communications.csproj" />
+    <ProjectReference Include="..\HRMS.Models\HRMS.Models.csproj" />
+    <ProjectReference Include="..\HRMS.Repository\HRMS.Repository.csproj" />
+    <ProjectReference Include="..\HRMS.Utilities\HRMS.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
